@@ -14,7 +14,7 @@ public class Calculator {
     public static void main(String[] args) {
 
         Calculator calculator = new Calculator();
-        //test
+        //tests
         Scanner scanner = new Scanner(System.in);
         double number1, number2;
         do {
